@@ -1,3 +1,5 @@
 - ## `mad scientist @ the singularity`
 - `my name is sher`
 - `i am a mad scientist and i like cats and robots and birds`
+- `currently researching reinforcement learning human feedback for cancer`
+- `i can be trusted with ai`
