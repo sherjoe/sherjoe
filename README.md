@@ -2,4 +2,4 @@
 - `my name is sher`
 - `i am a mad scientist and i like cats and robots and birds`
 - `currently researching reinforcement learning human feedback for cancer`
-- `i can be trusted with ai`
+- `i can totally be trusted with ai (˶˃ ᵕ ˂˶) .ᐟ.ᐟ`
